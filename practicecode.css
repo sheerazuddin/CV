@@ -1,0 +1,112 @@
+.top-container{
+
+  background-color: #beebe9;
+position:relative;
+  padding:100px;
+}
+body{
+  margin:0;
+  text-align:center;
+  font-family: 'Knewave', cursive;
+
+}
+h1{
+margin-top:10px auto 0 auto;
+font-size:40px;
+color:#66BFBF;
+/*******use this to center h1 with 10% width
+
+width:10%
+margin:0 auto 0 auto;
+*****/
+font-family: 'Fugaz One', cursive;
+
+}
+h2{
+  color:#66BFBF;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+}
+p{
+
+  line-height: 2;
+}
+.h3{
+  font-size:2rem;
+}
+.profilepic{
+    width:20%;
+    float:left;
+    margin-right: 40px;
+}
+.bottom-container{
+
+}
+.middle-container{
+
+}
+.skill-row{
+  width:50%;
+
+  margin:50px auto 50px auto;
+}
+.style{
+
+  text-align: left;
+}
+.bottom-cloud{
+  position:absolute;
+  left:350px;
+  bottom:400px;
+}
+.top-cloud{
+  position:absolute;
+  right:350px;
+  top:50px;
+}
+
+.table{
+
+  /***margin:0 auto 0 auto;*****/
+  al
+}
+.profile{
+  background-color: #fcf7bb;
+  width:50%;
+  height:150px;
+  margin:0 auto 0 auto;
+  text-align: left;
+}
+.profilepara{
+  margin-left: 20px;
+  /***clear:left;***/
+}
+.contact-me{
+  background-color: #cbe2b0;
+}
+.bottom-container{
+  background-color: #f6d186;
+}
+.skills{
+  background-color:#d4f8e8;
+  text-align: center;
+}
+.brainimage{
+  float:right;
+  margin-left: 30px;
+}
+.brainpara{
+  text-align: left;
+  /**clear:right;***/
+}
+.span{
+  text-decoration: underline;
+  font-weight: normal;}
+/***.h1height{
+  line-height: 2;
+}
+****/
